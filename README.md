@@ -18,7 +18,7 @@ Topic: Advanced Quantitative Trading.
 * Computing signal return only after removing all outliers that were discovered.
 
 ## My Completed Project
-* [ipython notebook](https://github.com/jamesdellinger/ai_for_trading_nanodegree_breakout_strategy_project/blob/master/project_2_starter.ipynb) / [html version](http://htmlpreview.github.com/?https://github.com/jamesdellinger/ai_for_trading_nanodegree_breakout_strategy_project/blob/master/project_2_starter.html)
+* [ipython notebook](http://nbviewer.jupyter.org/github/jamesdellinger/ai_for_trading_nanodegree_breakout_strategy_project/blob/master/project_2_starter.ipynb)
 
 ## Project Grading and Evaluation
 * [Project Review](https://github.com/jamesdellinger/ai_for_trading_nanodegree_breakout_strategy_project/blob/master/breakout_strategy_project_review.pdf)
