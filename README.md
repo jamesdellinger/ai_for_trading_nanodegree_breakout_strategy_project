@@ -5,7 +5,7 @@
 
 For Udacity's [AI for Trading](https://www.udacity.com/course/ai-for-trading--nd880) Nanodegree.
 
-Topic: Breakout Strategy.
+Topic: Advanced Quantitative Trading.
 
 ## Overview
 * Creating and backtesting a breakout trading signal. Outliers are removed in order to ensure a robust backtesting process.
